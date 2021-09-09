@@ -487,7 +487,7 @@
             "servers": [
                 {
                     "name": "Default",
-                    "url": "rtmps://rtmp-api.facebook.com:443/rtmp/"
+                    "url": "rtmps://live-api-s.facebook.com:443/rtmp/"
                 }
             ],
             "recommended": {
